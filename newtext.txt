@@ -2,3 +2,4 @@ welcome to git hub
 A new line has been added
 Adding a new line to check the sync
 adding new content to the file
+adding second line
